@@ -17,4 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem "jekyll", "~> 3.9"
+    gem "webrick", "~> 1.7"
+    gem "kramdown-parser-gfm"
 end
