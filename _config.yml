@@ -4,12 +4,14 @@ title: "Konstantinos Kaltsas"
 description: "My opinions are my own."
 logo: 'assets/images/logo_k2.png'
 favicon: 'assets/images/logo_k2.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /home
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'konkaltsas'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+
+# baseurl: /mediumish-theme-jekyll
 
 # Authors
 authors:
@@ -18,8 +20,8 @@ authors:
     display_name: Konstantinos
     gravatar: 7facd2792d97740afcefdb6f5072dcd8
     email: konkaltsas@icloud.com
-    web: https://www.wowthemes.net
-    twitter: https://www.linkedin.com/in/konkaltsas/
+    web: https://www.linkedin.com/in/konkaltsas/
+    twitter: https://www.twitter.com/konkaltsas/
     description: "Website Owner."
 
 # Plugins

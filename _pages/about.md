@@ -1,34 +1,33 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Short Bio
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Konstantinos has over 10 years of diverse experience in managing teams and leading Products. His career progression includes various roles that have provided him with a well-rounded skill set. He has served in several roles, starting as a Software Engineer and progressing to roles such as Principal Architect, Products Security Officer, Solutions Architect, and, for the last couple of years, as a Product Manager.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>Throughout his career, Konstantinos has showcased expertise in software engineering, product management and more. His experience spans leadership roles in architecture, security, DevOps, cloud native, networking, mobile development and more, making him a well-rounded professional capable of managing teams & products effectively.</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Currently he is working as a Product Manager for NetScaler, Cloud Software Group where he is leading several NetScaler products. He is working with a big list of Fortune 100 & 500 customers, delivering large-scale IT projects and leading the transition to Cloud Native and DevOps adoption. Additionally he owns the account management of EMEA public & private sector customers.</p>
 
-<h4>Questions or bug reports?</h4>
+<p>He holds an MSc in Computer Science from the University of Ioannina and a Bachelor's degree from the University of Piraeus.</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Konstantinos lives in Thessaloniki, Greece, with his family and their French bulldog. He is a dedicated husband and a proud father of two boys. Beyond work, he enjoys walks by the sea, listening to blues, and exploring his passion for food, wine, and spirits.</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<!-- <h5>Wanna work with me?</h5> -->
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<!-- <p>You can check my CV in the following link.</p> -->
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<!-- <a target="_blank" href="https://rb.gy/kb9my" class="btn btn-danger">Public Profile</a> --> 
 
 </div>
 </div>
