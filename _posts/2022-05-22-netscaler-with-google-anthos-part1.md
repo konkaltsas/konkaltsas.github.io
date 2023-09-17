@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NetScaler with Google Anthos - Part 1: Modern app delivery and security for hybrid multi-cloud"
+title:  "NetScaler with Google Anthos - Blog Series"
 excerpt: "Agile, flexible DevOps practices are crucial to successful digital transformation initiatives."
 author: konstantinos
 categories: [ NetScaler, Cloud Native ]
@@ -34,6 +34,12 @@ Google Anthos unifies management of infrastructure and apps across on-premises, 
 In our series, we’ll dive into different concepts and provide fully functional labs for the reader to test. All labs source code will be publicly available in our on GitHub. 
 The topics we’ll cover will include:
 
-- Autoscaling ADC from within a GKE cluster based on user demand.
-- Automate ADC Day 2 operations using Anthos Config Management.
+- <a href="../netscaler-with-google-anthos-part2">Autoscaling NetScaler from within a GKE cluster based on user demand.</a>
+- <a href="../netscaler-with-google-anthos-part3">Automate NetScaler Day 2 operations using Anthos Config Management.<a/>
 - Security and Policy Enforcement with Anthos Policy Controller and NetScaler WAF.
+
+&nbsp;  
+
+<div style="font-size: small;">* This blog was originally published at <a target="_blank" href="https://www.citrix.com/blogs/2022/05/11/citrix-adc-with-google-anthos-modern-app-delivery-and-security-for-hybrid-multi-cloud/">Citrix Blogs</a></div>
+
+&nbsp;  
