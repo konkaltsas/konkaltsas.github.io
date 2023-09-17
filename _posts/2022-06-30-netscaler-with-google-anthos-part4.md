@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NetScaler with Google Anthos: App protection and policy enforcement for Kubernetes apps"
+title:  "NetScaler with Google Anthos: Multi-layered API protection for modern apps"
 excerpt: "Leverage NetScaler policies, to provide API gateway functionalities at the edge, as an enterprise API gateway or within a Kubernetes cluster."
 author: konstantinos
 categories: [ NetScaler, Cloud Native, Security ]

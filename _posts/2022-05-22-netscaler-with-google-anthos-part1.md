@@ -35,8 +35,8 @@ In our series, we’ll dive into different concepts and provide fully functional
 The topics we’ll cover will include:
 
 - <a href="../netscaler-with-google-anthos-part2">Autoscaling NetScaler from within a GKE cluster based on user demand.</a>
-- <a href="../netscaler-with-google-anthos-part3">Automate NetScaler Day 2 operations using Anthos Config Management.<a/>
-- <a href="../netscaler-with-google-anthos-part4">Security and Policy Enforcement with Anthos Policy Controller and NetScaler WAF.</a>
+- <a href="../netscaler-with-google-anthos-part3">Security and Policy Enforcement with Anthos Policy Controller and NetScaler WAF.<a/>
+- <a href="../netscaler-with-google-anthos-part4">Multi-layered API protection for modern apps.</a>
 
 &nbsp;  
 
