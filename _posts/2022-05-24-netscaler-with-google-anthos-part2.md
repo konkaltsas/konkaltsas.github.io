@@ -3,8 +3,8 @@ layout: post
 title:  "NetScaler with Google Anthos: Consistent, reliable app delivery for Kubernetes apps"
 excerpt: "NetScaler can work seamlessly with Google Kubernetes Engine (GKE) to provide consistent, reliable app delivery for Kubernetes apps."
 author: konstantinos
-categories: [ NetScaler, Cloud Native ]
-tags: [netscaler, anthos, kubernetes]
+categories: [ Blogs ]
+tags: [netscaler, anthos, kubernetes, cloud native]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
 featured: false
 hidden: false

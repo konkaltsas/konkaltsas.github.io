@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Automating NetScaler configurations with Terraform [YouTube]"
+title:  "Automating NetScaler configurations with Terraform [Video]"
 excerpt: "The importance of DevOps and Infrastructure as Code. A NetScaler Live demo."
 author: konstantinos
-categories: [ NetScaler, Automation, Live Sessions ]
-tags: [netscaler, automation, terraform, ansible]
+categories: [ Live Sessions ]
+tags: [netscaler, automation, configuration management, infrastructure as code, terraform]
 image: assets/images/2023-02-06-netscaler-ask-netscaler-experts.png
 featured: false
 hidden: false

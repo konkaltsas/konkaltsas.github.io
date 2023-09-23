@@ -3,8 +3,8 @@ layout: post
 title:  "NetScaler with Google Anthos: App protection and policy enforcement for Kubernetes apps"
 excerpt: "When it comes to application delivery, security is a top priority and Web apps and APIs are an organization’s most valuable but vulnerable assets."
 author: konstantinos
-categories: [ NetScaler, Cloud Native, Security ]
-tags: [netscaler, anthos, waf]
+categories: [ Blogs ]
+tags: [netscaler, anthos, kubernetes, cloud native, security, waf, open policy agent]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
 featured: false
 hidden: false

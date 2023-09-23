@@ -3,8 +3,8 @@ layout: post
 title:  "NetScaler with Google Anthos - Blog Series"
 excerpt: "Agile, flexible DevOps practices are crucial to successful digital transformation initiatives."
 author: konstantinos
-categories: [ NetScaler, Cloud Native ]
-tags: [netscaler, anthos]
+categories: [ Blogs ]
+tags: [netscaler, anthos, kubernetes, cloud native]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
 featured: yes
 hidden: true

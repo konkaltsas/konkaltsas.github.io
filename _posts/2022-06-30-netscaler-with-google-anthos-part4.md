@@ -3,8 +3,8 @@ layout: post
 title:  "NetScaler with Google Anthos: Multi-layered API protection for modern apps"
 excerpt: "Leverage NetScaler policies, to provide API gateway functionalities at the edge, as an enterprise API gateway or within a Kubernetes cluster."
 author: konstantinos
-categories: [ NetScaler, Cloud Native, Security ]
-tags: [netscaler, anthos, waf]
+categories: [ Blogs ]
+tags: [netscaler, anthos, kubernetes, cloud native, security, waf, rate limiting, keycloak, oauth 2.0, api gateway]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
 featured: false
 hidden: false
