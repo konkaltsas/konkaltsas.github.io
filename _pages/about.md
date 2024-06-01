@@ -21,7 +21,7 @@ comments: false
     <div class="col-md-4">
 
         <div class="sticky-top sticky-top-80">
-            <img src="/home/assets/images/Profile.jpg"/>
+            <img src="/assets/images/Profile.jpg"/>
             <br/><br/>
             <h5>Wanna work with me?</h5> 
                 <p>You can find my CV in the following link.</p> 
