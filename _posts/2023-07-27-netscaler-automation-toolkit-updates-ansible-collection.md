@@ -8,12 +8,12 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-07-27-automation-toolkit-updates.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this NetScaler Community Connect webinar we talked about the NetScaler's Automation Toolkit and then we focused on the new NetScaler Ansible Collection and share some Ansible Golden PlayBooks.
+During this "NetScaler Connect" webinar I had the oportunity to talk about the NetScaler's Automation Toolkit and then we focused on the new NetScaler Ansible Collection and shared some Ansible Golden PlayBooks.
 
 
 ## Watch the recording

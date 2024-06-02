@@ -8,12 +8,12 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-05-25-automation-toolkit-updates.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this NetScaler Community Connect webinar we talked about the NetScaler's Automation Toolkit and the importance of DevOps and Infrastructure as Code. Then, we shared some news and recent updates.
+During this "NetScaler Connect" webinar I had the oportunity to talk about the NetScaler's Automation Toolkit and the importance of DevOps and Infrastructure as Code. Then, I shared some news and recent updates.
 
 
 ## Watch the recording

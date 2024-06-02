@@ -8,7 +8,7 @@ tags: [netscaler, anthos, kubernetes, cloud native]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
 featured: yes
 hidden: true
-rating: 4.5
+comments: false
 ---
 
 <div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@growtika?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Growtika</a> on <a href="https://unsplash.com/photos/183Yxo3vsGY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>

@@ -8,12 +8,12 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-02-06-netscaler-ask-netscaler-experts.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this NetScaler Community live session we talked about the importance of DevOps and Infrastructure as Code. Then, we focused on Terraform and how it can be used for NetScaler provisioning & configuration.
+During this "NetScaler live" session I talked about the importance of DevOps and Infrastructure as Code. Then, we focused on Terraform and how it can be used for NetScaler provisioning & configuration.
 
 >A fundamental principle of DevOps is to treat infrastructure the same way developers treat application code. Practicing `infrastructure as code` means applying the same rigor of application code development to infrastructure provisioning. All configurations should be defined in a declarative way and stored in a source control system similar to application code. Infrastructure provisioning, orchestration and deployment should also support the use of `infrastructure as code`.
 

@@ -23,9 +23,9 @@ comments: false
         <div class="sticky-top sticky-top-80">
             <img src="/assets/images/Profile.jpg"/>
             <br/><br/>
-            <!-- <h5>Wanna work with me?</h5> 
+            <h5>Wanna work with me?</h5> 
                 <p>You can find my CV in the following link.</p> 
-                <a target="_blank" href="https://rb.gy/kb9my" class="btn btn-danger">Download CV</a> -->
+                <a target="_blank" href="/assets/other/CV.pdf" class="btn btn-danger">Download CV</a>
         </div>
     </div>
 </div>

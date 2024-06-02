@@ -8,16 +8,16 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-08-16-netscaler-live-session.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this NetScaler Community live session we talked about:
-- The new NetScaler Ansible Collection and new updated
-- Talked about the Ansible fundamentals and the anatomy of a PlayBook
-- Focused on best practicies and how it can make configuration management easier. 
-- Then, we did a hands-on demo where we discussed content swithing and load balancing configuration  and how to migrate to the new collection
+During this "NetScaler live" session we talked about the new NetScaler Ansible Collection and introduced some cool new features.  
+
+- We started with some Ansible fundamentals and the anatomy of a PlayBook
+- Then we focused on best practicies and how it can make configuration management easier. 
+- Finally, we did a hands-on demo using the collection. We covered content swithing and load balancing and how to migrate from the old collection to the new one.
 
 >Use `Ansible` for `NetDevOps` by applying DevOps and/or continuous integration/continuous deployment (CI/CD) practices to networking activities.
 

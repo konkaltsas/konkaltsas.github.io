@@ -8,23 +8,23 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-09-20-netscaler-live-session.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this live session we discussed:
+During this "NetScaler live" session we focused on the Security.
 
-- Why SaC is important for Shifting Security left in the early stages of Software Development Life Cycle (SDLC)
-- Demonstrate how Ansible can be used to configure NetScaler WAF for protecting your applications.
+- We started with why SaC is important for Shifting Security left in the early stages of Software Development Life Cycle (SDLC) and then
+- Demonstrate how Ansible can be used to configure NetScaler WAF for protecting applications.
 
-> `Security as Code (SaC)` is a concept that leverages code and automation to enforce security policies and practices across an organization's entire infrastructure. To successfully transition from `DevOps` to the security-integrated approach of`DevSecOps` means embracing `SaC`.
+> `Security as Code (SaC)` is a concept that leverages code and automation to enforce security policies and practices across an organization's entire infrastructure. To successfully transition from `DevOps` to the security-integrated approach of `DevSecOps` means embracing `SaC`.
 
 
 
 ## Watch the recording
 
-The recording will be available soon. Please stay tuned.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18eUlX1f3CA?si=Xl1M5v2GsVmYoguf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 &nbsp;  

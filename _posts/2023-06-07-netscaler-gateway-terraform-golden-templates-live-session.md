@@ -8,12 +8,12 @@ tags: [netscaler, automation, configuration management, infrastructure as code, 
 image: assets/images/2023-06-07-netscaler-live-session.png
 featured: false
 hidden: false
-rating: 4.5
+comments: false
 ---
 
 &nbsp;  
 
-In this NetScaler Community live session we talked about Gateway best practicies and how golden templates can make configuration easier. Then, we focused on Terraform golden templates and demonstrated how and how it can be used for LDAP - RADIUS configuration.
+During this "NetScaler live" session we talked about Gateway best practicies and how golden templates can make configuration easier. Then, we focused on Terraform golden templates and demonstrated how and how it can be used for LDAP - RADIUS configuration.
 
 >Using a predefined `Infrastructure-as-Code` template allows administrators to deploy systems consistently with clear and known configuration that follows best practices.
 
