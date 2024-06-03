@@ -5,11 +5,13 @@ excerpt: "To successfully transition from DevOps to the security-integrated appr
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, ansible]
-image: assets/images/2023-09-20-netscaler-live-session.png
+image: assets/images/2023-09-20-netscaler-sac-with-ansible-live-session.jpg
 featured: false
 hidden: false
 comments: false
 ---
+
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus Spiske</a> on <a href="https://unsplash.com/photos/black-and-gray-laptop-computer-turned-on-FXFz-sW0uwo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
 
 &nbsp;  
 

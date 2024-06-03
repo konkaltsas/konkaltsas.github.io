@@ -5,11 +5,14 @@ excerpt: "How to automate NetScaler Configurations using Ansible. A NetScaler Li
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, ansible]
-image: assets/images/2023-08-16-netscaler-live-session.png
+image: assets/images/2023-08-16-netscaler-with-ansible-live-session.jpg
 featured: false
 hidden: false
 comments: false
 ---
+
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@bertsz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bert b</a> on <a href="https://unsplash.com/photos/3d-computer-graphics-rhNff6hB41s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+  
 
 &nbsp;  
 
