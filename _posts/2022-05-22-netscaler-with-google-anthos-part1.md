@@ -6,8 +6,8 @@ author: konstantinos
 categories: [ Blogs ]
 tags: [netscaler, anthos, kubernetes, cloud native]
 image: assets/images/growtika-183Yxo3vsGY-unsplash.jpg
-featured: yes
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 

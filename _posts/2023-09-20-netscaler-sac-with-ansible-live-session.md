@@ -29,6 +29,6 @@ During this "NetScaler live" session we focused on the Security.
 
 &nbsp;  
 
-<div style="font-size: small;">* Special thanks to my folks at NetScaler</div>
+<div style="font-size: small;">* Special thanks to my folks @ NetScaler</div>
 
 &nbsp;  

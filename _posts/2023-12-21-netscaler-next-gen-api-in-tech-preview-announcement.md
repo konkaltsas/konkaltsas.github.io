@@ -4,12 +4,15 @@ title:  "Announcement: NetScaler Next-Gen API is now in Tech Preview![Video]"
 excerpt: "New capabilities and some nice demos. A NetScaler Connect webinar."
 author: konstantinos
 categories: [ Live Sessions ]
-tags: [netscaler, automation, configuration management, infrastructure as code, terraform, apis]
-image: assets/images/2023-12-21-netscaler-next-gen-api-in-tech-preview-announcement.png
+tags: [netscaler, automation, configuration management, infrastructure as code, apis]
+image: assets/images/2023-12-21-netscaler-next-gen-api-in-tech-preview-announcement.jpg
 featured: false
 hidden: false
 comments: false
 ---
+
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@fabioha?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">fabio</a> on <a href="https://unsplash.com/photos/geometric-shape-digital-wallpaper-oyXis2kALVg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+
 
 &nbsp;  
 
@@ -22,6 +25,6 @@ During this "NetScaler Connect" webinar I had the oportunity to announce the Tec
 
 &nbsp;  
 
-<div style="font-size: small;">* Special thanks to my folks at NetScaler</div>
+<div style="font-size: small;">* Special thanks to my folks @ NetScaler</div>
 
 &nbsp;  

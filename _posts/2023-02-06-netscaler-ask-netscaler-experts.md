@@ -25,6 +25,6 @@ During this "NetScaler live" session I talked about the importance of DevOps and
 
 &nbsp;  
 
-<div style="font-size: small;">* Special thanks to my folks at NetScaler</div>
+<div style="font-size: small;">* Special thanks to my folks @ NetScaler</div>
 
 &nbsp;  

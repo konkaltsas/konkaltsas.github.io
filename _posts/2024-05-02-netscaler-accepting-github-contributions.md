@@ -4,7 +4,7 @@ title:  "Accepting GitHub contributions in NetScaler GitHub repos"
 excerpt: "Contributing to open source projects is not only beneficial for individual growth and skill development, but also plays a vital role in advancing technology, fostering collaboration between organizations, and creating a more inclusive and accessible software ecosystem."
 author: konstantinos
 categories: [ Blogs ]
-tags: [netscaler, github, ansible, automation]
+tags: [netscaler, github, ansible, automation, open-source]
 image: assets/images/2024-05-02-netscaler-accepting-github-contributions.jpg
 featured: true
 hidden: false

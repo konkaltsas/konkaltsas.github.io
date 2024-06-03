@@ -5,15 +5,21 @@ excerpt: "Automating infrastructure deployments and configurations helps streaml
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, terraform]
-image: assets/images/2023-11-15-netscaler-automation-terraform-cloud-live-session.png
+image: assets/images/2023-11-15-netscaler-automation-terraform-cloud-live-session.jpg
 featured: false
 hidden: false
 comments: false
 ---
 
+
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@yogidan2012?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniele Levis Pelusi</a> on <a href="https://unsplash.com/photos/gray-metal-crank-set-decor-Pp9qkEV_xPk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+
 &nbsp;  
 
+
 Automating infrastructure deployments and configurations helps streamlining the process of building, testing, and deploying infrastructure leading to a secure, scalable and reliable infrastructure.
+
+> There are various ways to design `Automation` pipelines; Terraform Cloud and makes it easier for teams to collaborate especially in complex, multi-cloud, and multi-team environments.
 
 During this "NetScaler live" session we focused on:
 
@@ -23,8 +29,6 @@ During this "NetScaler live" session we focused on:
 - How to safely store your Terraform state file
 - How to segregate the duties of committing and approving Infrastructure as Code changes
 
-> There are various ways to design `Automation` pipelines; Terraform Cloud and makes it easier for teams to collaborate especially in complex, multi-cloud, and multi-team environments.
-
 
 ## Watch the recording
 
@@ -33,6 +37,6 @@ During this "NetScaler live" session we focused on:
 
 &nbsp;  
 
-<div style="font-size: small;">* Special thanks to my folks at NetScaler</div>
+<div style="font-size: small;">* Special thanks to my folks @ NetScaler</div>
 
 &nbsp;  

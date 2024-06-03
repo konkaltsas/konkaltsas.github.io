@@ -23,6 +23,6 @@ During this "NetScaler Connect" webinar I had the oportunity to talk about the N
 
 &nbsp;  
 
-<div style="font-size: small;">* Special thanks to my folks at NetScaler</div>
+<div style="font-size: small;">* Special thanks to my folks @ NetScaler</div>
 
 &nbsp;  
