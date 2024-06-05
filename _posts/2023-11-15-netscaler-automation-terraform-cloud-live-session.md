@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automation Pipelines: Leveraging Terraform Cloud to design a NetScaler Automation strategy [Video]"
+title:  "Automation Pipelines: Leveraging Terraform Cloud to design a NetScaler Automation strategy [NetScaler Event]"
 excerpt: "Automating infrastructure deployments and configurations helps streamlining the process of building, testing, and deploying infrastructure leading to a secure, scalable and reliable infrastructure. A NetScaler Live demo."
 author: konstantinos
 categories: [ Live Sessions ]

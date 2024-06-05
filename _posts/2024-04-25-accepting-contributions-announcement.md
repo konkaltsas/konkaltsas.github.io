@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Walkthrough on contributing to NetScaler GitHub repos[Video]"
+title:  "Walkthrough on contributing to NetScaler GitHub repos [NetScaler Event]"
 excerpt: "During this webinar I was excited to announce that we are accepting contributions to the NetScaler Ansible Collection on GitHub"
 author: konstantinos
 categories: [ Live Sessions ]

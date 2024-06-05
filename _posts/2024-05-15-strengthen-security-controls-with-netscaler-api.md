@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strengthen your security controls with NetScaler’s Next-Gen APIs [Video]"
+title:  "Strengthen your security controls with NetScaler’s Next-Gen APIs [NetScaler Event]"
 excerpt: "APIs are essential for businesses not just for their operational benefits but also for enhancing security through mechanisms like Role-Based Access Control (RBAC). RBAC ensures that only authorized users or systems have access to specific resources based on their roles and responsibilities, reducing the risk of data breaches, unauthorized access, and API abuse."
 author: konstantinos
 categories: [ Live Sessions ]
