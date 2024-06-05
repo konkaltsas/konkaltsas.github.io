@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "NetScaler Automation Toolkit updates [Video]"
-excerpt: "New updates and releases for NetScaler Automation Toolkit. New Ansible Collection for NetScaler. A NetScaler Connect webinar"
+title:  "Announcement: NetScaler Ansible Collection Release![NetScaler Event]"
+excerpt: "During this NetScaler Connect webinar I had the oportunity to announce the release of the new Ansible Collection for NetScaler and share some `Golden` Ansible PlayBooks. "
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, terraform, ansible]
-image: assets/images/2023-07-27-automation-toolkit-updates.png
+image: assets/images/2023-07-27-netscaler-automation-toolkit-updates-ansible-collection.jpg
 featured: false
 hidden: false
 comments: false
 ---
 
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@aperturevintage?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aperture Vintage</a> on <a href="https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-range-ocwIByshaH8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+
 &nbsp;  
 
-During this "NetScaler Connect" webinar I had the oportunity to talk about the NetScaler's Automation Toolkit and then we focused on the new NetScaler Ansible Collection and shared some Ansible Golden PlayBooks.
+During this "NetScaler Connect" webinar I had the oportunity to announce the release of the new Ansible Collection for NetScaler and share some `Golden` Ansible PlayBooks. Additionally I had the change to share some updates concerning the NetScaler Automation toolkit new features and roadmaps.
 
 
 ## Watch the recording

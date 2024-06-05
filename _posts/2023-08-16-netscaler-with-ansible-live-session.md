@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Automating NetScaler Configurations with Ansible [Video]"
-excerpt: "How to automate NetScaler Configurations using Ansible. A NetScaler Live demo."
+title:  "Automating NetScaler Configurations with Ansible [NetScaler Event]"
+excerpt: "Use Ansible for NetDevOps by applying DevOps and/or continuous integration/continuous deployment (CI/CD) practices to networking activities."
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, ansible]
@@ -16,11 +16,11 @@ comments: false
 
 &nbsp;  
 
-During this "NetScaler live" session we talked about the new NetScaler Ansible Collection and introduced some cool new features.  
+During this "NetScaler live" session I talked about the importance of Continuous Configuration Automation (CCA) tools and how NetScaler Ansible Collection can be used to manage Application Delivery and Security configuration. I started by introducing the new NetScaler Ansible Collection and then we covered some cool new features.  
 
-- We started with some Ansible fundamentals and the anatomy of a PlayBook
-- Then we focused on best practicies and how it can make configuration management easier. 
-- Finally, we did a hands-on demo using the collection. We covered content swithing and load balancing and how to migrate from the old collection to the new one.
+- Ansible fundamentals and the anatomy of a PlayBook
+- Best practicies and how can make configuration management easier. 
+- Finally, a hands-on demo using the collection. We covered content swithing and load balancing and how to migrate from the old collection to the new one.
 
 >Use `Ansible` for `NetDevOps` by applying DevOps and/or continuous integration/continuous deployment (CI/CD) practices to networking activities.
 

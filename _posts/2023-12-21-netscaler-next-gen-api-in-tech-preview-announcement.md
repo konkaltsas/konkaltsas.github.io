@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Announcement: NetScaler Next-Gen API is now in Tech Preview![Video]"
-excerpt: "New capabilities and some nice demos. A NetScaler Connect webinar."
+title:  "Announcement: NetScaler Next-Gen API is now in Tech Preview! [NetScaler Event]"
+excerpt: "During this NetScaler Connect webinar I had the oportunity to announce the Tech Preview Release for NetScaler's Next generation APIs."
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, apis]

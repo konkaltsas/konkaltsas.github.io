@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to maximise Infrastructure Automation: Terraform Provider enhancements for SVM & SDX![Video]"
-excerpt: "New updates, announcements and demos. A NetScaler Connect webinar"
+title:  "How to maximise Infrastructure Automation: Terraform Provider enhancements for SVM & SDX! [NetScaler Event]"
+excerpt: "During this NetScaler Connect webinar I had the oportunity to present how you can maximise Infrastructure Automation using the new features what come with the latest version of the Terraform Provider for SVM (SDX)."
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, terraform, sdx, svm]

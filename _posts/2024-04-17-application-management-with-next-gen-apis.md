@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Application management with NetScaler’s Next Gen APIs[Video]"
+title:  "Application management with NetScaler’s Next Gen APIs [NetScaler Event]"
 excerpt: "NetScaler Next-Gen API is a powerful modern RESTful API that allows you to programmatically configure NetScaler in a simple and intuitive way. It is based on a declarative, desired state and application-centric interface, and aims to abstract away and simplify many of the low-level complexity of traditional NetScaler configurations, making it more suitable to application developers even those who are not networking or ADC experts."
 author: konstantinos
 categories: [ Live Sessions ]

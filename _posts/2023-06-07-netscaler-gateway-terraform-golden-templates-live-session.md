@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Automating Gateway Configurations with Golden Terraform templates [Video]"
+title:  "Automating Gateway Configurations with Golden Terraform templates [NetScaler Event]"
 excerpt: "The importance of Golden templates for deploying systems consistently with clear and known configuration. A NetScaler Live demo."
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, infrastructure as code, terraform, gateway]
-image: assets/images/2023-06-07-netscaler-live-session.png
+image: assets/images/2023-06-07-netscaler-gateway-terraform-golden-templates-live-session.jpg
 featured: false
 hidden: false
 comments: false
 ---
+
+<div style="text-align: center; font-size: small;">Photo by <a href="https://unsplash.com/@qrenep?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rene Böhmer</a> on <a href="https://unsplash.com/photos/a-very-long-line-of-yellow-lines-on-a-black-background-YeUVDKZWSZ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+  
 
 &nbsp;  
 

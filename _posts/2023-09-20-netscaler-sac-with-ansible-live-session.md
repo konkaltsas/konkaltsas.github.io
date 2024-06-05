@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Security as Code (SaC) 101: Configure NetScaler WAF using Ansible to protect your applications. [Video]"
+title:  "Security as Code (SaC) 101: Configure NetScaler WAF using Ansible to protect your applications. [NetScaler Event]"
 excerpt: "To successfully transition from DevOps to the security-integrated approach of DevSecOps means embracing SaC. A NetScaler Live demo."
 author: konstantinos
 categories: [ Live Sessions ]
