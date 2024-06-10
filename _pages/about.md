@@ -10,7 +10,7 @@ comments: false
 
         <p>Konstantinos brings over a decade of diverse experience in team management and product leadership. His career trajectory has equipped him with a well-rounded skill set, beginning as a Software Engineer and advancing through roles such as Principal Architect, Products Security Officer, and, most recently, Product Manager. </p>
         
-        <p>In his professional journey, Konstantinos has demonstrated expertise and leadership across various domains, including digital transformation, application modernization, mobile technology, security, networking and more. His extensive experience makes him adept at managing teams and products effectively.</p>
+        <p>In his professional journey, Konstantinos has demonstrated expertise and leadership across various domains, including digital transformation, application modernization, mobile technology, user experience, security, networking and more. His extensive experience makes him adept at managing teams and products effectively.</p>
         
         <p>Currently, Konstantinos serves as a Product Manager for Citrix NetScaler at Cloud Software Group, where he leads multiple products and collaborates with numerous Fortune Global 100 and 500 customers. </p>
         
