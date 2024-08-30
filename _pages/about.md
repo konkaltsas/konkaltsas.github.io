@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
     <div class="col-md-8 pr-5">
 
-        <p>Konstantinos brings over a decade of diverse experience in team management and product leadership. His career trajectory has equipped him with a well-rounded skill set, beginning as a Software Engineer and advancing through roles such as Principal Architect, Products Security Officer, Solutions Architect, and Product Manager. </p>
+        <p>Konstantinos brings over a decade of diverse experience in team management and product leadership. His career trajectory has equipped him with a well-rounded skill set, beginning as a Software Engineer and advancing through roles such as Principal Architect, Products Security Officer, Solutions Architect and Product Manager. </p>
         
         <p>In his professional journey, Konstantinos has demonstrated expertise and leadership across various domains, including digital transformation, application modernization, mobile technology, user experience, security, networking and more. His extensive experience makes him adept at managing teams and products effectively.</p>
         
