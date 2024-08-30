@@ -27,9 +27,13 @@ During this "NetScaler Live" session, I had the oportunity to discuss:
 - Simplify TLS configuration and cipher suites management using an Application Centric approach.
 - Demo: A walkthrough of how to configure advanced Applications by following these principles.
 
-## Watch the recording
+## Virtual event details
 
-The recording will be available soon.
+Time: 05:00 PM - 05:30 PM (GMT+01:00) CET
+
+Date: Thursday, May 15, 2024
+
+Watch on Demand: [https://community.citrix.com/events/event/71-netscaler-live-demo-strengthen-your-security-controls-with-netscaler%E2%80%99s-next-gen-api/](https://community.citrix.com/events/event/71-netscaler-live-demo-strengthen-your-security-controls-with-netscaler%E2%80%99s-next-gen-api/)
 
 &nbsp;  
 
