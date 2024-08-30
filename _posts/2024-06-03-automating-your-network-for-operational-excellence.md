@@ -25,7 +25,9 @@ Time: 1:00 PM - 2:00 PM (GMT-04:00) Eastern Time (US & Canada)
 
 Date: Thursday, June 20, 2024
 
-Registration Link: https://events.redhat.com/profile/form/index.cfm?PKformID=0x1101545abcd
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhQmZktxJjI?si=hubHCAmxW5nPy-gH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 &nbsp;  
 
