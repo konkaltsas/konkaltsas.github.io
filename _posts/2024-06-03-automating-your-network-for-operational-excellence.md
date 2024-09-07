@@ -31,6 +31,8 @@ Date: Thursday, June 20, 2024
 
 &nbsp;  
 
+The code used in this demo is available here: [GitHub](https://github.com/konkaltsas/netscaler-aap)
+
 <div style="font-size: small;">* Special thanks to my folks @ NetScaler and our partners @ Red Hat</div>
 
 &nbsp;  
