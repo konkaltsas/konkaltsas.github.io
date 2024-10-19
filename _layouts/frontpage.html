@@ -107,7 +107,12 @@ ga('send', 'pageview');
 
 <div class="site-content">
 
+{% if page.url == "/" %}
+<div class="container d-md-flex">    
+    <div class="col-sm-12 col-md-8">
+{% else %}
 <div class="container">
+{% endif %}
 
 
 <!-- Site Title
@@ -141,6 +146,15 @@ ga('send', 'pageview');
 </div>
 {% endif %}
 
+{% if page.url == "/" %}
+</div>
+
+<div class="col-sm-12 col-md-4" style="height: 200vh; overflow-y: scroll !important;">
+    <div class="row">
+        {% include linkedin.html %}
+    </div>
+</div>
+{% endif %}
 </div>
 
 <!-- Categories Jumbotron

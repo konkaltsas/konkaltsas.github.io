@@ -5,6 +5,7 @@ description: "The views and opinions expressed in this site are solely my own an
 logo: 'assets/images/logo_k2.png'
 favicon: 'assets/images/logo_k2.png'
 baseurl: ''
+featured: true
 google_analytics: 'UA-46278016-1'
 disqus: 'konkaltsas'
 include: ["_pages"]
