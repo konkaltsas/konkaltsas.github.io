@@ -5,7 +5,7 @@ excerpt: "Harnessing the potential of cloud technology can drive innovation and 
 author: konstantinos
 categories: [ Live Sessions ]
 tags: [netscaler, automation, configuration management, security, infrastructure as code, apis]
-image: assets/images/2024-06-03-automating-your-network-for-operational-excellence.png
+image: assets/images/2024-06-03-automating-your-network-for-operational-excellence.jpeg
 featured: true
 hidden: false
 comments: false
