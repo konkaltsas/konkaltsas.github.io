@@ -6,7 +6,7 @@ author: konstantinos
 categories: [ Blogs ]
 tags: [netscaler, automation, configuration management, infrastructure as code, apis]
 image: assets/images/2024-06-17-introducing-netscaler-next-gen-api.jpg
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

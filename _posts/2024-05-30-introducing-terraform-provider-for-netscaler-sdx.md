@@ -6,7 +6,7 @@ author: konstantinos
 categories: [ Blogs ]
 tags: [netscaler, github, terraform, sdx, svm, automation]
 image: assets/images/2024-05-30-introducing-terraform-provider-for-netscaler-sdx.jpg
-featured: true
+featured: false
 hidden: false
 comments: false
 ---
